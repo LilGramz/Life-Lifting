@@ -19,7 +19,7 @@ struct ContentView: View {
       
                 //Login
                 ZStack {
-                                Color.pink
+                                Color(red: 0.94117647, green: 0.28627451, blue: 0.6)
                                     .ignoresSafeArea()
                                 Circle()
                                     .scale(1.7)
